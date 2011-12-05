@@ -1,4 +1,4 @@
-## puppetlabs-firewall module
+# puppetlabs-firewall module
 
 ## User Guide
 
